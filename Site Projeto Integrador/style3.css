@@ -119,6 +119,7 @@ p{
     width: 100%;
     /* padding: 10px; */
     /* margin: 10px; */
+   
 
 }
 .conteudo h2{
@@ -151,6 +152,7 @@ hr{
     float: right;
     line-height: 40px;
     position: absolute;
+    bottom: 0;
 }
 
 .rodape p{
@@ -166,3 +168,7 @@ hr{
     background-color: #D90718;
     margin: 0px;
 }
+/* .tudo{
+    position: relative;
+    height: 100%;;
+} */

@@ -139,6 +139,7 @@ p{
     width: 35%;
     margin-left: 100px;
     margin-bottom: 50px;
+    /* position: relative; */
    
 }
 
@@ -167,6 +168,7 @@ hr{
     float: right;
     line-height: 40px;
     position: absolute;
+    bottom: 1;
 }
 
 .rodape p{
@@ -181,4 +183,7 @@ hr{
     text-align: left;
     background-color: #D90718;
     margin: 0px;
+}
+.tudo{
+    position: relative;
 }
