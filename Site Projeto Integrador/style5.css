@@ -35,6 +35,7 @@ ul{
     width: 100%;
     display: flex;
     justify-content: space-between;
+   
 }
 
 li{
@@ -124,9 +125,8 @@ p{
     color: #262223;
     text-decoration:underline;
     font-size: 28px;
+    padding: auto;
 }
-
-
 
 hr{
     border: 10px
@@ -143,10 +143,13 @@ hr{
     column-count: 2; 
     width: 100%;
     height: 200px;
-    float: right;
+    /* float: right; */
     line-height: 40px;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute !important;*/
+    /* bottom: 1 !important; */
+    /* float: inline-end !important; */
+    /* z-index: 0;   */
+    float: inline-end;
 }
 
 .rodape p{
@@ -162,6 +165,6 @@ hr{
     background-color: #D90718;
     margin: 0px;
 }
-/* .tudo{
+.tudo{
     position: relative;
-} */
+} 

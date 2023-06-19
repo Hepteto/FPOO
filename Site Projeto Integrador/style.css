@@ -120,6 +120,12 @@ p{
 }
 .quadro{
     width: 1000px;
+    margin: 25px;
+}
+.img-grupo{
+    width: 700px;
+    height: auto;
+    margin: 25px;
 }
 
 hr{

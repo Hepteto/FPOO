@@ -112,6 +112,7 @@ p{
     margin: 15px;
     display: inline;
     width: 100%;
+    min-height: max-content;
 }
 .conteudo h2{
     text-align: center;
@@ -142,7 +143,7 @@ hr{
     float: right;
     line-height: 40px;
     position: absolute;
-    bottom: 0;
+    bottom: 1;
 }
 
 .rodape p{
@@ -160,4 +161,5 @@ hr{
 }
 .tudo{
     position: relative;
+    height: 2024px;
 }
